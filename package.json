@@ -1,0 +1,12 @@
+{
+  "name": "SeleniumIDE-plugin-example",
+  "version": "0.0.1",
+  "description": "An example extension for SeleniumIDE.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

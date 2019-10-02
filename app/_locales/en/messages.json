@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "SeleniumIDE Plugin Example",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "side-plugin",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "An example of an extension for SeleniumIDE.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "SeleniumIDE Plugin Example",
+    "description": "The title of the browser action button"
+  }
+}
